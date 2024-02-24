@@ -1,0 +1,14 @@
+{
+  "name": "salvage-token-script",
+  "version": "1.0.0",
+  "description": "- gas fee分のethが届いたか確認する - alchemy api ### send all nft  - wallet内にあるすべてのNFTを指定したwalletに送信する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.20.1"
+  }
+}
